@@ -8,6 +8,8 @@ Brief description of the project.
 - Responsive design for all screen sizes.
 - Ability to create a new user.
 - Ability to edit existing user data.
+- Using bootstrap for CSS.
+- Using FontAwasome for Icons.
 - Deployed on Vercel.
 
 ## Getting Started
